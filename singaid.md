@@ -6,14 +6,16 @@
 Said to someone who has just hiccuped, as a polite remark; 
 a remark offering good wishes of hiccups passing.
 
+Like the English expression *bless you*, which is often used when someone is sneezing, *singaid* is a polite expression towards someone with the hiccups.
+
 
 ## Use of the word **singaid**
 
-person one: *has the hiccups*
+person one: \*has the hiccups\*
 
 person two: "singaid"
 
-person one: *hiccup* "Thank you so much" *hiccup* "I hate the—" *hiccup* "hiccups—" *hiccup*
+person one: \*hiccup\* "Thank you so much——" \*hiccup\* "I hate the——" \*hiccup\* "hiccups——" \*hiccup\*
 
 ## Etymology and Word History
 
