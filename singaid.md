@@ -1,5 +1,11 @@
-# Singaid
-### (*idiom, idiomatic expression*)
+# **Singaid** (*idiom, idiomatic expression*)
+
+## Pronunciation
+/siŋ-eɪd/ or
+/sɪŋ-eɪd/
+
+*sing* as in "sing" or "sin" with a g (depending on dialect)
+*aid* as in "aid"—offering help.
 
 ## Defintion
 
@@ -20,7 +26,7 @@ person one: \*hiccup\* "Thank you so much——" \*hiccup\* "I hate the——" \
 ## Etymology and Word History
 
 *Singaid* is derived from:
-1. The medical term for hiccups, *singultus*, which is Latin for gasp or sob; and
-2. The English word *aid*, meaning to provide support, assistance, or help
+1. *Sing-* comes from the medical term for hiccups, *singultus*, which is Latin for gasp or sob; and
+2. *-aid* comes from the English word *aid*, meaning to provide support, assistance, or help
 
 Combined, *singaid* acts as a wish of aid when someone has the hiccups.
