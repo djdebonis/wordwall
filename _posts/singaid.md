@@ -1,3 +1,10 @@
+---
+layout: post
+title: "Singaid"
+date: 2026-02-20
+tags: [idiom, idiomatic, expression]
+categories: [words]
+---
 # **Singaid** (*idiom, idiomatic expression*)
 
 ## Pronunciation
