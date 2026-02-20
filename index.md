@@ -5,8 +5,11 @@ title: Home
 
 # New Word Wall
 
-**The New Word Wall:** a dictionary of new words, sland, concepts, jargon, and more
+**The New Word Wall:** a dictionary of new words, slang, concepts, jargon, and more
+
 Founded in Colorado • Available for consulting / collaborations
+
+[View New Words Here](./words)
 
 ---
 
