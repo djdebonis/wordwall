@@ -26,7 +26,7 @@ person one: \*hiccup\* "Thank you so much——" \*hiccup\* "I hate the——" \
 ## Etymology and Word History
 
 *Singaid* is derived from:
-1. *Sing-* comes from the medical term for hiccups, *singultus*, which is Latin for gasp or sob; and
-2. *-aid* comes from the English word *aid*, meaning to provide support, assistance, or help
+1. *sing-*, an affix that comes from the medical term for hiccups, *singultus*, which is Latin for gasp or sob; and
+2. *-aid*, a word that comes from the English word *aid*, meaning to provide support, assistance, or help
 
 Combined, *singaid* acts as a wish of aid when someone has the hiccups.
