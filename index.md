@@ -3,18 +3,16 @@ layout: default
 title: Home
 ---
 
-# Your Name / Brand
+# New Word Wall
 
-**Short tagline:** what you build + who it’s for.  
-Based in Littleton, CO • Available for consulting / collaborations
-
-[Email me](mailto:you@email.com) · [GitHub](https://github.com/yourusername) · [LinkedIn](https://www.linkedin.com/in/yourhandle/) · [Portfolio](https://yourdomain.com)
+**The New Word Wall:** a dictionary of new words, sland, concepts, jargon, and more
+Founded in Colorado • Available for consulting / collaborations
 
 ---
 
-## What I do
-- **Thing 1:** one-line value statement (e.g., “data-driven marketing + storytelling for health brands”)
-- **Thing 2:** one-line value statement
+## What is New Word Wall?
+- **A Dictionary of New Words:** New Word Wall publishes exclusively new words. The new words range anywhere from new slang works that come up on Tiktok to new concepts in scientific literature. The new words can also include brand new words. The new words can also include new definitions of old words, which is a common occurance in language use.
+- **Thing 2:** one-line value st
 - **Thing 3:** one-line value statement
 
 ## Featured projects
