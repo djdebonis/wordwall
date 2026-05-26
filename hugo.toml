@@ -1,0 +1,29 @@
+baseURL = 'https://newwordwall.com/'
+languageCode = 'en-us'
+title = 'New Word Wall'
+theme = "PaperMod"
+
+[pagination]
+  pagerSize = 10
+
+[params]
+  description = "A dictionary of emerging language, slang, concepts, jargon, and internet culture, as well as a collection of other Linguistics projects."
+  author = "David DeBonis"
+  ShowReadingTime = true
+  ShowShareButtons = true
+  ShowPostNavLinks = true
+  ShowBreadCrumbs = true
+  ShowCodeCopyButtons = true
+  defaultTheme = "auto"
+
+[[menu.main]]
+  identifier = "words"
+  name = "Words"
+  url = "/words/"
+  weight = 10
+
+[[menu.main]]
+  identifier = "tags"
+  name = "Tags"
+  url = "/tags/"
+  weight = 20

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Words on New Word Wall</title>
+    <link>http://localhost:1313/categories/words/</link>
+    <description>Recent content in Words on New Word Wall</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 26 May 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/categories/words/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Doomscrolling</title>
+      <link>http://localhost:1313/words/doomscrolling/</link>
+      <pubDate>Tue, 26 May 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/words/doomscrolling/</guid>
+      <description>&lt;h2 id=&#34;definition&#34;&gt;Definition&lt;/h2&gt;
+&lt;p&gt;Compulsively scrolling through negative or anxiety-inducing news or social media content.&lt;/p&gt;
+&lt;h2 id=&#34;origin&#34;&gt;Origin&lt;/h2&gt;
+&lt;p&gt;The term emerged during the COVID-19 pandemic and became associated with excessive digital media consumption.&lt;/p&gt;
+&lt;h2 id=&#34;example&#34;&gt;Example&lt;/h2&gt;
+&lt;blockquote&gt;
+&lt;p&gt;“I stayed up until 2 AM doomscrolling TikTok and news feeds.”&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h2 id=&#34;related-terms&#34;&gt;Related Terms&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;digital fatigue&lt;/li&gt;
+&lt;li&gt;algorithmic anxiety&lt;/li&gt;
+&lt;li&gt;information overload&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
+  </channel>
+</rss>
