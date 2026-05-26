@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Tags on New Word Wall</title>
+    <link>//:1313/tags/</link>
+    <description>Recent content in Tags on New Word Wall</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 26 May 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="//:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Internet Culture</title>
+      <link>//:1313/tags/internet-culture/</link>
+      <pubDate>Tue, 26 May 2026 00:00:00 +0000</pubDate>
+      <guid>//:1313/tags/internet-culture/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Psychology</title>
+      <link>//:1313/tags/psychology/</link>
+      <pubDate>Tue, 26 May 2026 00:00:00 +0000</pubDate>
+      <guid>//:1313/tags/psychology/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Social Media</title>
+      <link>//:1313/tags/social-media/</link>
+      <pubDate>Tue, 26 May 2026 00:00:00 +0000</pubDate>
+      <guid>//:1313/tags/social-media/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>
