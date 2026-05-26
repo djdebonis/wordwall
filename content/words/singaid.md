@@ -1,3 +1,12 @@
+---
+title: "Singaid"
+date: 2026-05-26
+draft: false
+tags: ["internet culture", "social media", "psychology"]
+categories: ["Words"]
+---
+
+
 # **Singaid** (*idiom, idiomatic expression*)
 
 ## Pronunciation

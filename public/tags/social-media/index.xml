@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Social Media on New Word Wall</title>
-    <link>http://localhost:1313/tags/social-media/</link>
+    <link>//:1313/tags/social-media/</link>
     <description>Recent content in Social Media on New Word Wall</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 26 May 2026 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/social-media/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="//:1313/tags/social-media/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Doomscrolling</title>
-      <link>http://localhost:1313/words/doomscrolling/</link>
+      <link>//:1313/words/doomscrolling/</link>
       <pubDate>Tue, 26 May 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/words/doomscrolling/</guid>
+      <guid>//:1313/words/doomscrolling/</guid>
       <description>&lt;h2 id=&#34;definition&#34;&gt;Definition&lt;/h2&gt;
 &lt;p&gt;Compulsively scrolling through negative or anxiety-inducing news or social media content.&lt;/p&gt;
 &lt;h2 id=&#34;origin&#34;&gt;Origin&lt;/h2&gt;

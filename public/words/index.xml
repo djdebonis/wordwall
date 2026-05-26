@@ -2,17 +2,49 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Words on New Word Wall</title>
-    <link>http://localhost:1313/words/</link>
+    <link>//:1313/words/</link>
     <description>Recent content in Words on New Word Wall</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <atom:link href="http://localhost:1313/words/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 26 May 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="//:1313/words/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Doomscrolling</title>
+      <link>//:1313/words/doomscrolling/</link>
+      <pubDate>Tue, 26 May 2026 00:00:00 +0000</pubDate>
+      <guid>//:1313/words/doomscrolling/</guid>
+      <description>&lt;h2 id=&#34;definition&#34;&gt;Definition&lt;/h2&gt;
+&lt;p&gt;Compulsively scrolling through negative or anxiety-inducing news or social media content.&lt;/p&gt;
+&lt;h2 id=&#34;origin&#34;&gt;Origin&lt;/h2&gt;
+&lt;p&gt;The term emerged during the COVID-19 pandemic and became associated with excessive digital media consumption.&lt;/p&gt;
+&lt;h2 id=&#34;example&#34;&gt;Example&lt;/h2&gt;
+&lt;blockquote&gt;
+&lt;p&gt;“I stayed up until 2 AM doomscrolling TikTok and news feeds.”&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h2 id=&#34;related-terms&#34;&gt;Related Terms&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;digital fatigue&lt;/li&gt;
+&lt;li&gt;algorithmic anxiety&lt;/li&gt;
+&lt;li&gt;information overload&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
     <item>
       <title></title>
-      <link>http://localhost:1313/words/doomscrolling/</link>
+      <link>//:1313/words/singaid/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/words/doomscrolling/</guid>
-      <description></description>
+      <guid>//:1313/words/singaid/</guid>
+      <description>&lt;h1 id=&#34;singaid-idiom-idiomatic-expression&#34;&gt;&lt;strong&gt;Singaid&lt;/strong&gt; (&lt;em&gt;idiom, idiomatic expression&lt;/em&gt;)&lt;/h1&gt;
+&lt;h2 id=&#34;pronunciation&#34;&gt;Pronunciation&lt;/h2&gt;
+&lt;p&gt;/siŋ-eɪd/ or
+/sɪŋ-eɪd/&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;sing&lt;/em&gt; as in &amp;ldquo;sing&amp;rdquo; or &amp;ldquo;sin&amp;rdquo; with a g (depending on dialect)
+&lt;em&gt;aid&lt;/em&gt; as in &amp;ldquo;aid&amp;rdquo;—offering help.&lt;/p&gt;
+&lt;h2 id=&#34;defintion&#34;&gt;Defintion&lt;/h2&gt;
+&lt;p&gt;Said to someone who has just hiccuped, as a polite remark;
+a remark offering good wishes of hiccups passing.&lt;/p&gt;
+&lt;p&gt;Like the English expression &lt;em&gt;bless you&lt;/em&gt;, which is often used when someone is sneezing, &lt;em&gt;singaid&lt;/em&gt; is a polite expression towards someone with the hiccups.&lt;/p&gt;
+&lt;h2 id=&#34;use-of-the-word-singaid&#34;&gt;Use of the word &lt;strong&gt;singaid&lt;/strong&gt;&lt;/h2&gt;
+&lt;p&gt;person one: *has the hiccups*&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
