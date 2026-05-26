@@ -2,7 +2,7 @@
 title: "Singaid"
 date: 2026-05-26
 draft: false
-tags: ["internet culture", "social media", "psychology"]
+tags: ["internet culture", "social media", "psychology", "new words"]
 categories: ["Words"]
 ---
 
