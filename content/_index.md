@@ -2,14 +2,14 @@
 title: "New Word Wall"
 ---
 
+
 # New Word Wall
 
-A dictionary of emerging language, slang, internet culture, concepts, and jargon.
+**The New Word Wall:** Seeking Research, Innovation, and Application Through Language
 
-Explore evolving language across:
-- internet culture
-- AI terminology
-- memes
-- wellness language
-- startup jargon
-- online discourse
+Founded in Colorado • Available for collaborations
+
+[View New Words Here](./words)
+
+## Contact
+If you want to get in touch, the fastest way is email: **antiloconsulting@gmail.com**
