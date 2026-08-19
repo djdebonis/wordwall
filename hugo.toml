@@ -6,8 +6,13 @@ theme = "PaperMod"
 [pagination]
   pagerSize = 10
 
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+
 [params]
-  description = "A dictionary of emerging language, slang, concepts, jargon, and internet culture, as well as a collection of other Linguistics projects."
+  description = "A study of language in society: from the smallest utterance to the largest questions about human meaning."
   author = "David DeBonis"
   ShowReadingTime = true
   ShowShareButtons = true
@@ -17,19 +22,37 @@ theme = "PaperMod"
   defaultTheme = "auto"
 
 [[menu.main]]
-  identifier = "words"
-  name = "Words"
-  url = "/words/"
+  identifier = "home"
+  name = "Home"
+  url = "/"
   weight = 10
 
 [[menu.main]]
-  identifier = "tags"
-  name = "Tags"
-  url = "/tags/"
+  identifier = "about"
+  name = "About"
+  url = "/about/"
   weight = 20
 
 [[menu.main]]
-  identifier = "projects"
-  name = "Projects"
-  url = "/projects/"
+  identifier = "journal"
+  name = "Journal"
+  url = "/journal/"
   weight = 20
+
+[[menu.main]]
+  identifier = "research"
+  name = "Research"
+  url = "/research/"
+  weight = 30
+
+[[menu.main]]
+  identifier = "tools"
+  name = "Tools"
+  url = "/tools/"
+  weight = 40
+
+[[menu.main]]
+  identifier = "contact"
+  name = "Contact"
+  url = "/contact/"
+  weight = 50
