@@ -2,6 +2,21 @@ baseURL = 'https://newwordwall.com/'
 languageCode = 'en-us'
 title = 'New Word Wall'
 theme = "PaperMod"
+enableRobotsTXT = true
+enableGitInfo = true
+
+[outputs]
+  home = ["HTML", "RSS", "JSON"]
+
+[taxonomies]
+  tag = "tags"
+  topic = "topics"
+  discipline = "disciplines"
+  method = "methods"
+
+[sitemap]
+  changeFreq = "weekly"
+  priority = 0.7
 
 [pagination]
   pagerSize = 10
@@ -14,12 +29,20 @@ theme = "PaperMod"
 [params]
   description = "A study of language in society: from the smallest utterance to the largest questions about human meaning."
   author = "David DeBonis"
+  keywords = ["linguistics", "language and society", "sociolinguistics", "language change", "linguistic research"]
   ShowReadingTime = true
   ShowShareButtons = true
   ShowPostNavLinks = true
   ShowBreadCrumbs = true
   ShowCodeCopyButtons = true
   defaultTheme = "auto"
+
+  [params.schema]
+    publisherType = "Person"
+    sameAs = []
+
+  [params.assets]
+    theme_color = "#f5f1e8"
 
 [[menu.main]]
   identifier = "home"

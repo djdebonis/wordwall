@@ -12,3 +12,9 @@ Research at New Word Wall asks what language can show us about the people, place
 </div>
 
 Projects may take the form of fieldwork, close reading, public documentation, theoretical inquiry, or a tool that helps other people see patterns for themselves. The common thread is a belief that language is never only a system: it is something people inhabit, negotiate, and use to shape a shared world.
+
+## A clear standard for original work
+
+New Word Wall will distinguish between observation, interpretation, and claim. Research entries will document their question, evidence, method, sources, limitations, and status. New findings will be presented as provisional until the evidence supports a stronger conclusion.
+
+Browse the [research project archive](/projects/) or use the research template to begin a new study.

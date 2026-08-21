@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Disciplines on New Word Wall</title>
+    <link>http://localhost:1313/disciplines/</link>
+    <description>Recent content in Disciplines on New Word Wall</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 19 Aug 2026 16:06:45 -0600</lastBuildDate>
+    <atom:link href="http://localhost:1313/disciplines/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Language Technology</title>
+      <link>http://localhost:1313/disciplines/language-technology/</link>
+      <pubDate>Wed, 19 Aug 2026 16:06:45 -0600</pubDate>
+      <guid>http://localhost:1313/disciplines/language-technology/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Linguistics</title>
+      <link>http://localhost:1313/disciplines/linguistics/</link>
+      <pubDate>Wed, 19 Aug 2026 16:06:45 -0600</pubDate>
+      <guid>http://localhost:1313/disciplines/linguistics/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Natural Language Processing</title>
+      <link>http://localhost:1313/disciplines/natural-language-processing/</link>
+      <pubDate>Wed, 19 Aug 2026 16:06:45 -0600</pubDate>
+      <guid>http://localhost:1313/disciplines/natural-language-processing/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>NLP</title>
+      <link>http://localhost:1313/disciplines/nlp/</link>
+      <pubDate>Wed, 19 Aug 2026 16:06:45 -0600</pubDate>
+      <guid>http://localhost:1313/disciplines/nlp/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Sociolinguistics</title>
+      <link>http://localhost:1313/disciplines/sociolinguistics/</link>
+      <pubDate>Wed, 19 Aug 2026 16:06:45 -0600</pubDate>
+      <guid>http://localhost:1313/disciplines/sociolinguistics/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Humanistic Geography</title>
+      <link>http://localhost:1313/disciplines/humanistic-geography/</link>
+      <pubDate>Thu, 18 Jun 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/disciplines/humanistic-geography/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,29 @@
+#!/bin/sh
+
+set -eu
+
+if [ "$#" -ne 2 ]; then
+  echo "Usage: ./scripts/new-content <journal|research|words> <slug>" >&2
+  exit 1
+fi
+
+section="$1"
+slug="$2"
+
+case "$section" in
+  journal|research|words)
+    ;;
+  *)
+    echo "Error: section must be journal, research, or words" >&2
+    exit 1
+    ;;
+esac
+
+case "$slug" in
+  ''|*/*|.*)
+    echo "Error: slug must be a non-empty path-safe name" >&2
+    exit 1
+    ;;
+esac
+
+exec hugo new "$section/$slug/index.md"

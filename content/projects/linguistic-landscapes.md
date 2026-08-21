@@ -2,8 +2,12 @@
 title: "Linguistic Landscapes"
 date: 2026-06-18
 draft: false
-tags: ["internet culture", "social media", "psychology", "new words"]
-categories: ["Words"]
+description: "A study of written language in public space and what linguistic landscapes reveal about culture and community."
+tags: ["public language", "place", "culture"]
+topics: ["language and society", "linguistic landscapes"]
+disciplines: ["sociolinguistics", "humanistic geography"]
+methods: ["close reading"]
+categories: ["Research"]
 ---
 
 

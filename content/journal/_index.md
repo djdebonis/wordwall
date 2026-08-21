@@ -12,6 +12,6 @@ The Journal is the working notebook of New Word Wall: observations on speech, wr
 <a class="feature-link" href="/tags/"><span class="feature-label">Find a thread</span><strong>Tags</strong><span>Follow topics including psychology, social media, and internet culture.</span></a>
 </div>
 
-## Recent entries
+## Latest journal posts
 
-The archive is growing in public. Start with [doomscrolling](/words/doomscrolling/) or [singaid](/words/singaid/), then follow the related terms, questions, and tags.
+The archive is growing in public. Journal posts appear below this introduction, newest first. Posts can include a short preview, reading time, and featured image. For focused word studies, start with [doomscrolling](/words/doomscrolling/) or [singaid](/words/singaid/), then follow the related terms, questions, and tags.
