@@ -31,3 +31,9 @@ Linguistic landscapes are often studied because——with the proper analysis—
 
 Much reseach has been done into linguistic landscapes, and much research has been done into humanistic geography and the distribution of spoken language, but less research has been done into geosemiotics and geographical distributions of written language. Although linguistic landscapes likely function differently from spoken language, there are many parallels to be drawn. This paper proceeds with the hopefully not too optimistic assumption that linguistic theories that have been applied exclusively to spoken language are at least somewhat applicable to the patterns and behaviors of linguistic landscapes.
 
+## LLBert: Linguistic Landscape Coordinate Regressor
+
+LLBert is an experiment in using natural language processing to estimate the geographic coordinates associated with text found on signs. The project README documents its data, model, workflow, and interactive predictor.
+
+{{< llbert-readme >}}
+
