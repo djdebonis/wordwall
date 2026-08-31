@@ -8,7 +8,7 @@ description: "A study of language in society, from everyday speech to the larges
 
 # New Word Wall
 
-<p class="home-lede">A place to study language in society, from the smallest utterance to the largest questions about what it means to be human.</p>
+<p class="home-lede">One of the things that makes humans so unique is our intricate language and other forms of communication. Here on the New Word Wall, we explore human language and communication, ranging from the smallest utterance to the largest questions about what it means to be human.</p>
 
 <p class="home-actions"><a class="button button-primary" href="/journal/">Read the journal</a><a class="button" href="/research/">Explore the research</a></p>
 </div>
@@ -17,16 +17,11 @@ description: "A study of language in society, from everyday speech to the larges
 
 New Word Wall follows language where it is actually happening: in a conversation, on a street sign, across a screen, inside a community, and in the theories we use to understand one another.
 
-The site moves between scales without treating any of them as too ordinary or too abstract:
-
-- **Listen closely:** to sound, syntax, stories, names, silence, slang, and the meanings people make together.
-- **Look outward:** at language as culture, institution, landscape, technology, identity, and power.
-- **Make connections:** between linguistic theory and lived experience, between a single word and the world that gives it force.
-
 <div class="home-grid">
 <a class="feature-link" href="/journal/"><span class="feature-label">Field notes</span><strong>Journal</strong><span>Observations on words, speech, culture, and the meanings we live inside.</span></a>
 <a class="feature-link" href="/research/"><span class="feature-label">Longer questions</span><strong>Research</strong><span>Projects connecting linguistics with society, place, and human experience.</span></a>
 <a class="feature-link" href="/words/"><span class="feature-label">Close reading</span><strong>Words</strong><span>A focused archive of new terms, old terms in new lives, and the stories around them.</span></a>
+<a class="feature-link" href="/portfolio/"><span class="feature-label">Work elsewhere</span><strong>Elsewhere</strong><span>Research, writing, tools, and collaborations published beyond New Word Wall.</span></a>
 </div>
 
 ## Start anywhere

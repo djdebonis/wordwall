@@ -153,6 +153,32 @@ a:hover {
   padding: 1.5rem 0;
 }
 
+.portfolio-list {
+  border-top: 1px solid var(--ww-line);
+  margin: 2rem 0 3.5rem;
+}
+
+.portfolio-item {
+  border-bottom: 1px solid var(--ww-line);
+  padding: 1.5rem 0;
+}
+
+.portfolio-item h2 {
+  margin: 0.35rem 0 0.6rem;
+}
+
+.portfolio-item p {
+  color: var(--ww-muted);
+  line-height: 1.6;
+  max-width: 42rem;
+}
+
+.portfolio-item a:last-child {
+  display: inline-block;
+  font-weight: 700;
+  margin-top: 0.75rem;
+}
+
 .tool-item h2 {
   margin: 0.35rem 0;
 }

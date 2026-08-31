@@ -70,6 +70,12 @@ enableGitInfo = true
   weight = 30
 
 [[menu.main]]
+  identifier = "portfolio"
+  name = "Elsewhere"
+  url = "/portfolio/"
+  weight = 35
+
+[[menu.main]]
   identifier = "tools"
   name = "Tools"
   url = "/tools/"
