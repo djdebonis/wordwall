@@ -35,7 +35,8 @@ enableGitInfo = true
   ShowPostNavLinks = true
   ShowBreadCrumbs = true
   ShowCodeCopyButtons = true
-  defaultTheme = "auto"
+  defaultTheme = "light"
+  disableThemeToggle = true
 
   [params.schema]
     publisherType = "Person"

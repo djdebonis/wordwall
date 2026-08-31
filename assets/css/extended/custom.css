@@ -5,10 +5,29 @@
   --ww-line: #d8d0c2;
   --ww-accent: #c85436;
   --ww-accent-dark: #8f3426;
+
+  --theme: var(--ww-paper);
+  --entry: var(--ww-paper);
+  --primary: var(--ww-ink);
+  --secondary: var(--ww-muted);
+  --tertiary: var(--ww-line);
+  --content: var(--ww-ink);
+  --code-block-bg: var(--ww-ink);
+  --code-bg: #ebe5d9;
+  --border: var(--ww-line);
 }
 
 body {
   background: var(--ww-paper);
+  color: var(--ww-ink);
+}
+
+a {
+  color: var(--ww-accent-dark);
+}
+
+a:hover {
+  color: var(--ww-accent);
 }
 
 .header,
@@ -89,6 +108,39 @@ body {
 .feature-link span:last-child {
   color: var(--ww-muted);
   line-height: 1.5;
+}
+
+.article-author {
+  border-top: 1px solid var(--ww-line);
+  display: grid;
+  margin: 3.5rem 0 1rem;
+  padding-top: 1.5rem;
+}
+
+.article-author-copy {
+  max-width: 38rem;
+}
+
+.article-author-label {
+  color: var(--ww-accent);
+  font-size: 0.72rem;
+  font-weight: 700;
+  letter-spacing: 0.08em;
+  margin-bottom: 0.5rem;
+  text-transform: uppercase;
+}
+
+.article-author h2 {
+  margin: 0 0 0.75rem;
+}
+
+.article-author p {
+  color: var(--ww-muted);
+  line-height: 1.6;
+}
+
+.article-author p:last-child {
+  margin-bottom: 0;
 }
 
 .tool-list {
