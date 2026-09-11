@@ -1,6 +1,6 @@
 # New Word Wall
 
-New Word Wall is a Hugo-powered linguistics publication about language in society, from everyday speech to larger questions about human meaning.
+New Word Wall is David DeBonis's Hugo-powered journal of linguistics and writing, as well as a repository for research, field notes, tools, and experiments.
 
 ## Local development
 
@@ -18,8 +18,9 @@ Use the project wrapper so every entry is created as a Hugo page bundle:
 
 ```sh
 ./scripts/new-content journal article-slug
+./scripts/new-content writing essay-slug
+./scripts/new-content linguistics essay-slug
 ./scripts/new-content research project-slug
-./scripts/new-content words term-slug
 ```
 
 Each command creates a folder containing `index.md`, ready for images and other
@@ -59,9 +60,10 @@ Research pages should distinguish observation from interpretation and claim. Inc
 
 ## Site structure
 
-- `content/journal/` contains essays and field notes.
+- `content/journal/` contains general essays and field notes; its public listing also includes published pieces from `content/writing/` and `content/linguistics/`.
+- `content/writing/` contains essays and other writing-led work.
+- `content/linguistics/` contains essays and studies centered on language.
 - `content/projects/` contains research projects.
-- `content/words/` contains focused lexical studies.
 - `content/about/`, `content/tools/`, and `content/contact/` contain site pages.
 - `topics/`, `disciplines/`, and `methods/` make related work discoverable.
 
@@ -70,4 +72,3 @@ Research pages should distinguish observation from interpretation and claim. Inc
 ```sh
 hugo --minify
 ```
-

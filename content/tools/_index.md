@@ -1,16 +1,16 @@
 ---
 title: "Tools"
-description: "Small, practical tools for looking at language more closely."
+description: "Small tools, templates, and experiments for linguistic research."
 ---
 
-## Instruments for noticing
+## The workbench
 
-The best language tools do not replace interpretation. They make it easier to collect examples, compare patterns, and ask better questions.
+This section is for tools I build to support linguistic research. Some will be practical field guides, some will be code, and others may be exploratory methods developed for a particular research question.
 
 <div class="tool-list">
-<div class="tool-item"><span class="feature-label">01 / Archive</span><h2>Word notebook</h2><p>Save a new word with its source, context, pronunciation, and first impression before the details blur.</p></div>
-<div class="tool-item"><span class="feature-label">02 / Fieldwork</span><h2>Landscape checklist</h2><p>Record where a sign appears, which languages share the space, who seems addressed, and what the arrangement suggests.</p></div>
-<div class="tool-item"><span class="feature-label">03 / Conversation</span><h2>Meaning map</h2><p>Trace a term through speakers, settings, spellings, and related phrases to see where its meaning bends.</p></div>
+<div class="tool-item"><span class="feature-label">01 / Fieldwork</span><h2>Landscape notes</h2><p>A way to record where a sign appears, which languages share the space, who seems addressed, and what the arrangement might suggest.</p></div>
+<div class="tool-item"><span class="feature-label">02 / Archive</span><h2>Source notebook</h2><p>A simple home for examples, context, citations, and the first observation before the details blur.</p></div>
+<div class="tool-item"><span class="feature-label">03 / Experiments</span><h2>Language + code</h2><p>Models, maps, and other computational attempts to worry at linguistic questions from a different angle.</p></div>
 </div>
 
-More tools and downloadable field guides are in development.
+This collection is still in development. I will add materials as they become sufficiently documented and useful to share.

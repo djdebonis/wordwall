@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Rhetoric on New Word Wall</title>
+    <link>http://localhost:1313/disciplines/rhetoric/</link>
+    <description>Recent content in Rhetoric on New Word Wall</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 14 Dec 2022 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/disciplines/rhetoric/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Zen and the Art of Matsuo Bashō</title>
+      <link>http://localhost:1313/linguistics/zen-and-the-art-of-matsuo-basho/</link>
+      <pubDate>Wed, 14 Dec 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/linguistics/zen-and-the-art-of-matsuo-basho/</guid>
+      <description>An examination of how Matsuo Bashō’s haiku and haibun reflect Zen Buddhist ideas about direct experience, language, and literary form.</description>
+    </item>
+  </channel>
+</rss>

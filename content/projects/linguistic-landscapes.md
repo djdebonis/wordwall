@@ -33,7 +33,7 @@ Much reseach has been done into linguistic landscapes, and much research has bee
 
 ## LLBert: Linguistic Landscape Coordinate Regressor
 
-LLBert is an experiment in using natural language processing to estimate the geographic coordinates associated with text found on signs. The project README documents its data, model, workflow, and interactive predictor.
-
-{{< llbert-readme >}}
+LLBert is an experiment in using natural language processing to estimate the
+geographic coordinates associated with text found on signs. The model and its
+training workflow are maintained in the [LLBert repository](https://github.com/djdebonis/llbert).
 

@@ -1,12 +1,12 @@
 ---
 title: "Contact"
-description: "Contact New Word Wall about language, research, and collaboration."
+description: "Get in touch with David DeBonis about writing, linguistics, research, or collaboration."
 ---
 
-## Bring a word, a question, or a place
+## Get in touch
 
-Have you encountered a term that deserves a closer look? Are you interested in collaborating on language, culture, or community research? I would like to hear from you.
+If you would like to discuss a piece of writing, compare notes on a linguistic question, share an interesting example of language in public, point out an error, or explore a collaboration, I would be glad to hear from you.
 
 **Email:** [antiloconsulting@gmail.com](mailto:antiloconsulting@gmail.com)
 
-New Word Wall is based in Colorado and available for consulting, research conversations, and collaborations.
+I’m based in Colorado and open to editorial work, consulting, research conversations, and collaborations.

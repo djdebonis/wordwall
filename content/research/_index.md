@@ -1,20 +1,22 @@
 ---
 title: "Research"
-description: "Research projects in linguistics, culture, society, and human experience."
+description: "Ongoing linguistic research into language, place, culture, and technology."
 ---
 
-## Language is evidence, experience, and action
+## Questions developed through research
 
-Research at New Word Wall asks what language can show us about the people, places, and communities that use it, and what language itself helps make possible. The work draws from linguistics, anthropology, humanistic geography, and the everyday practice of paying attention.
+Most of my research begins with a small observation followed by a series of larger questions. What does the writing in a public place reveal about that place? Can a model locate a sign from its language alone? How do people decide that an AI-generated answer is credible?
+
+This is where those questions become projects. The work moves among linguistics, anthropology, humanistic geography, language technology, and whichever neighboring field has the tool I need.
 
 <div class="section-links">
 <a class="feature-link" href="/projects/linguistic-landscapes/"><span class="feature-label">Featured project</span><strong>Linguistic Landscapes</strong><span>Reading the written language of public spaces as a record of culture, practice, and belonging.</span></a>
 </div>
 
-Projects may take the form of fieldwork, close reading, public documentation, theoretical inquiry, or a tool that helps other people see patterns for themselves. The common thread is a belief that language is never only a system: it is something people inhabit, negotiate, and use to shape a shared world.
+Projects may involve fieldwork, close reading, mapping, code, literature review, or a combination of these approaches. The common thread is language—not only as a system, but as something people use to construct places, relationships, identities, and social boundaries.
 
-## A clear standard for original work
+## A note on certainty
 
-New Word Wall will distinguish between observation, interpretation, and claim. Research entries will document their question, evidence, method, sources, limitations, and status. New findings will be presented as provisional until the evidence supports a stronger conclusion.
+I want the unfinished parts of the research to remain visible. Each project should distinguish among observation, interpretation, and claim; identify the evidence and methods used; and acknowledge meaningful gaps or limitations. A promising hypothesis remains provisional until the evidence supports a stronger conclusion.
 
-Browse the [research project archive](/projects/) or use the research template to begin a new study.
+Browse the [project archive](/projects/) to see what I am working on.

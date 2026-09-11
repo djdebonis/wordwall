@@ -27,9 +27,9 @@ enableGitInfo = true
       unsafe = true
 
 [params]
-  description = "A study of language in society: from the smallest utterance to the largest questions about human meaning."
+  description = "A personal journal of linguistics and writing by David DeBonis."
   author = "David DeBonis"
-  keywords = ["linguistics", "language and society", "sociolinguistics", "language change", "linguistic research"]
+  keywords = ["linguistics", "writing", "essays", "linguistic research", "sociolinguistics", "language and society"]
   ShowReadingTime = true
   ShowShareButtons = true
   ShowPostNavLinks = true
@@ -64,9 +64,15 @@ enableGitInfo = true
   weight = 20
 
 [[menu.main]]
+  identifier = "writing"
+  name = "Writing"
+  url = "/writing/"
+  weight = 25
+
+[[menu.main]]
   identifier = "research"
-  name = "Research"
-  url = "/research/"
+  name = "Linguistics"
+  url = "/linguistics/"
   weight = 30
 
 [[menu.main]]

@@ -3,7 +3,7 @@
 set -eu
 
 if [ "$#" -ne 2 ]; then
-  echo "Usage: ./scripts/new-content <journal|research|words> <slug>" >&2
+  echo "Usage: ./scripts/new-content <journal|writing|linguistics|research> <slug>" >&2
   exit 1
 fi
 
@@ -11,10 +11,10 @@ section="$1"
 slug="$2"
 
 case "$section" in
-  journal|research|words)
+  journal|writing|linguistics|research)
     ;;
   *)
-    echo "Error: section must be journal, research, or words" >&2
+    echo "Error: section must be journal, writing, linguistics, or research" >&2
     exit 1
     ;;
 esac

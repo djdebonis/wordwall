@@ -1,17 +1,17 @@
 ---
 title: "Journal"
-description: "Field notes on language, culture, society, and the meanings people make together."
+description: "Essays, notes, and inquiries across linguistics and writing from David DeBonis."
 ---
 
-## Field notes on language as people live it
+## One journal, two related practices
 
-The Journal is the working notebook of New Word Wall: observations on speech, writing, signs, stories, language change, and the cultural conditions that give meanings their force. Some entries will be small and precise. Others will follow a larger question across history, media, and everyday life.
+The Journal brings together my work as a linguist and as a writer. It includes observations that may later become research projects, essays that do not need to become formal papers, and questions that benefit from being examined in public. Its subjects may include language, culture, technology, place, memory, literature, and the relationships among them.
 
 <div class="section-links">
-<a class="feature-link" href="/words/"><span class="feature-label">Browse the archive</span><strong>Words</strong><span>Definitions, pronunciations, origins, examples, and the worlds around them.</span></a>
-<a class="feature-link" href="/tags/"><span class="feature-label">Find a thread</span><strong>Tags</strong><span>Follow topics including psychology, social media, and internet culture.</span></a>
+<a class="feature-link" href="/writing/"><span class="feature-label">Essays & other work</span><strong>Writing</strong><span>Pieces in which the writing itself—not only the subject—is central to the inquiry.</span></a>
+<a class="feature-link" href="/linguistics/"><span class="feature-label">Language & society</span><strong>Linguistics</strong><span>Essays and research developed through textual analysis, fieldwork, sources, datasets, or computational tools.</span></a>
 </div>
 
 ## Latest journal posts
 
-The archive is growing in public. Journal posts appear below this introduction, newest first. Posts can include a short preview, reading time, and featured image. For focused word studies, start with [doomscrolling](/words/doomscrolling/) or [singaid](/words/singaid/), then follow the related terms, questions, and tags.
+The newest entries appear below. There is no publishing schedule; I add something when I have something worth adding.

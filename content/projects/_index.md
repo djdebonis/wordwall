@@ -1,12 +1,12 @@
 ---
 title: "Research Projects"
-description: "Ongoing and published projects about language, place, culture, and society."
+description: "The working archive of New Word Wall research projects."
 ---
 
-## Research in public
+## The project archive
 
-This is the project archive for New Word Wall. Each project should make its question, evidence, method, and limits visible so readers can follow the work rather than only its conclusion.
+This is where the larger investigations live. Some are completed studies, some are experiments, and others remain in development. I preserve methods, evidence, revisions, and limitations alongside the conclusions so that readers can follow how each inquiry developed.
 
 ## Featured work
 
-Explore [Linguistic Landscapes](/projects/linguistic-landscapes/), a study of written language in public space and what it can reveal about culture, practice, and belonging.
+Start with [Linguistic Landscapes](/projects/linguistic-landscapes/), my ongoing attempt to read public writing as evidence of culture, practice, geography, and belonging.

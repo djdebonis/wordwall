@@ -1,1 +1,61 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>Topics on New Word Wall</title><link>https://newwordwall.com/topics/</link><description>Recent content in Topics on New Word Wall</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Wed, 26 Aug 2026 08:35:37 -0600</lastBuildDate><atom:link href="https://newwordwall.com/topics/index.xml" rel="self" type="application/rss+xml"/><item><title>AI</title><link>https://newwordwall.com/topics/ai/</link><pubDate>Wed, 19 Aug 2026 16:06:45 -0600</pubDate><guid>https://newwordwall.com/topics/ai/</guid><description/></item><item><title>Artificial Intelligence</title><link>https://newwordwall.com/topics/artificial-intelligence/</link><pubDate>Wed, 19 Aug 2026 16:06:45 -0600</pubDate><guid>https://newwordwall.com/topics/artificial-intelligence/</guid><description/></item><item><title>Information Credibility</title><link>https://newwordwall.com/topics/information-credibility/</link><pubDate>Wed, 19 Aug 2026 16:06:45 -0600</pubDate><guid>https://newwordwall.com/topics/information-credibility/</guid><description/></item><item><title>Large Language Models</title><link>https://newwordwall.com/topics/large-language-models/</link><pubDate>Wed, 19 Aug 2026 16:06:45 -0600</pubDate><guid>https://newwordwall.com/topics/large-language-models/</guid><description/></item><item><title>Research Literacy</title><link>https://newwordwall.com/topics/research-literacy/</link><pubDate>Wed, 19 Aug 2026 16:06:45 -0600</pubDate><guid>https://newwordwall.com/topics/research-literacy/</guid><description/></item><item><title>Language and Society</title><link>https://newwordwall.com/topics/language-and-society/</link><pubDate>Thu, 18 Jun 2026 00:00:00 +0000</pubDate><guid>https://newwordwall.com/topics/language-and-society/</guid><description/></item><item><title>Linguistic Landscapes</title><link>https://newwordwall.com/topics/linguistic-landscapes/</link><pubDate>Thu, 18 Jun 2026 00:00:00 +0000</pubDate><guid>https://newwordwall.com/topics/linguistic-landscapes/</guid><description/></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Topics on New Word Wall</title>
+    <link>http://localhost:1313/topics/</link>
+    <description>Recent content in Topics on New Word Wall</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 26 Aug 2026 08:35:37 -0600</lastBuildDate>
+    <atom:link href="http://localhost:1313/topics/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>AI</title>
+      <link>http://localhost:1313/topics/ai/</link>
+      <pubDate>Wed, 19 Aug 2026 16:06:45 -0600</pubDate>
+      <guid>http://localhost:1313/topics/ai/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Artificial Intelligence</title>
+      <link>http://localhost:1313/topics/artificial-intelligence/</link>
+      <pubDate>Wed, 19 Aug 2026 16:06:45 -0600</pubDate>
+      <guid>http://localhost:1313/topics/artificial-intelligence/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Information Credibility</title>
+      <link>http://localhost:1313/topics/information-credibility/</link>
+      <pubDate>Wed, 19 Aug 2026 16:06:45 -0600</pubDate>
+      <guid>http://localhost:1313/topics/information-credibility/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Large Language Models</title>
+      <link>http://localhost:1313/topics/large-language-models/</link>
+      <pubDate>Wed, 19 Aug 2026 16:06:45 -0600</pubDate>
+      <guid>http://localhost:1313/topics/large-language-models/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Research Literacy</title>
+      <link>http://localhost:1313/topics/research-literacy/</link>
+      <pubDate>Wed, 19 Aug 2026 16:06:45 -0600</pubDate>
+      <guid>http://localhost:1313/topics/research-literacy/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Language and Society</title>
+      <link>http://localhost:1313/topics/language-and-society/</link>
+      <pubDate>Thu, 18 Jun 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/topics/language-and-society/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Linguistic Landscapes</title>
+      <link>http://localhost:1313/topics/linguistic-landscapes/</link>
+      <pubDate>Thu, 18 Jun 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/topics/linguistic-landscapes/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

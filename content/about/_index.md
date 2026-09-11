@@ -1,16 +1,20 @@
 ---
 title: "About"
-description: "About New Word Wall and its study of language in society and human life."
+description: "About David DeBonis and his journal of linguistics and writing."
 ---
 
-## Language, broad and small
+## Hi, I’m David
 
-New Word Wall is an independent linguistics project by David DeBonis. It is interested in language as both a tiny, intimate act and a vast social force: a phrase between friends, a grammar shared by millions, a name that marks belonging, a story that carries a worldview.
+I’m a writer and a linguist. Much of my research begins with small observations about language: why a phrase catches on, what a public sign assumes about its reader, how technology changes the way we evaluate credibility, and what these details reveal about the people and institutions involved.
 
-The project draws from linguistics and the human sciences to ask how language works, how it changes, and how it shapes the worlds people build together. The goal is not to police how people speak, but to understand how meaning moves through bodies, communities, institutions, technologies, and time.
+My writing also moves beyond linguistics. I’m interested in the essay as a form of thought: a way to examine an experience, develop an argument, follow an association, or give precise language to something not yet fully understood.
 
-## From a word to a world
+New Word Wall is where I collect and develop both kinds of work. Rather than a conventional publication with a fixed editorial program, it is a growing journal and repository for research, field notes, essays, experiments, and other materials that may contribute to a larger inquiry.
 
-Entries may begin as slang, a workplace phrase, a social-media pattern, a sound, a grammatical pattern, a research concept, or a word that someone made up because the existing vocabulary was not quite enough. Each one is an invitation to observe more carefully and connect the local detail to the larger human story.
+## About the name
 
-The project also makes room for consulting and collaboration around language, culture, and communication.
+Despite the name, New Word Wall is not primarily a collection of newly coined words. Its subjects may include signs, sounds, maps, models, conversations, interfaces, personal essays, and developing research questions. The “wall” is best understood as a place to gather observations, record interpretations, and identify connections.
+
+I’m interested in linguistics both as a formal field and as a method for examining social life. The research here draws most often from sociolinguistics, linguistic anthropology, humanistic geography, and language technology, while the writing is free to range more broadly.
+
+I’m based in Colorado and open to editorial and research conversations, collaborations, and thoughtful corrections.
